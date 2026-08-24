@@ -1,21 +1,22 @@
 {
   "generated_at": "2026-08-24T04:13:07.108260+00:00",
   "purpose": "Versioned snapshots of public sources for offline reproducibility",
+  "hash_mode": "SHA-256 after normalizing text newlines to LF",
   "files": [
     {
       "path": "data/snapshots/global_indicators_2000_2022.csv",
       "bytes": 4250915,
-      "sha256": "7a665ebf05081db91315c51c7a488774e01632a275e26f4e2bd74b43e432b2ca"
+      "sha256": "fe983b78df5be6f9f0a3115c36fb320ccbc22cc72bfa66cfc12c92684bf38348"
     },
     {
       "path": "data/snapshots/who_glass_antibiotics_2016_2023.csv",
       "bytes": 44986,
-      "sha256": "f3655dc8dc158bb3f93982b1ecf559f9cff7f29163fe7b46c08efbb72300f3c5"
+      "sha256": "0f1500c62c25677e705b6b8b97a65091f86dde33c84a2c80a336fae9367e31f9"
     },
     {
       "path": "data/snapshots/oecd_pharmaceutical_consumption_2010_2023.csv",
       "bytes": 119814,
-      "sha256": "89a0f1c4e507e4220774c83032e06908832436f5a688b8b3c60f45d880cbb410"
+      "sha256": "1e05292fcc5475d1ab303a4b27f6628002828982933e8fc58dc68708537a9d7d"
     },
     {
       "path": "data/snapshots/brazil_health_tourism_2014_2019.csv",

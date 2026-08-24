@@ -22,6 +22,11 @@ def require(condition: bool, message: str) -> None:
         raise AssertionError(message)
 
 
+def canonical_text_sha256(path: Path) -> str:
+    content = path.read_bytes().replace(b"\r\n", b"\n").replace(b"\r", b"\n")
+    return hashlib.sha256(content).hexdigest()
+
+
 def main() -> None:
     checks: list[str] = []
     snapshot = ROOT / "data" / "snapshots" / "global_indicators_2000_2022.csv"
@@ -99,7 +104,7 @@ def main() -> None:
         "data/snapshots/oecd_pharmaceutical_consumption_2010_2023.csv",
     ):
         path = ROOT / relative
-        digest = hashlib.sha256(path.read_bytes()).hexdigest()
+        digest = canonical_text_sha256(path)
         require(listed[relative]["sha256"] == digest, f"hash divergente: {relative}")
     checks.append("proveniência: hashes dos três snapshots analíticos conferidos")
 

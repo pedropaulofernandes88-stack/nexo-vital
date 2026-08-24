@@ -14,4 +14,6 @@ Dados de terceiros não são relicenciados pela licença MIT do código.
 
 URLs e definições completas constam em `docs/METODOLOGIA.md` e nos metadados JSON de
 cada snapshot. As cópias locais existem para reprodutibilidade; uma atualização deve
-registrar data, URL, hash e mudança de esquema.
+registrar data, URL, hash e mudança de esquema. Os hashes de arquivos textuais são
+calculados após normalização de quebras de linha para LF, garantindo o mesmo valor em
+Windows e Linux.

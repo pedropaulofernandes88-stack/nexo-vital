@@ -206,7 +206,8 @@ def refresh_oecd() -> Path:
 
 
 def sha256(path: Path) -> str:
-    digest = hashlib.sha256(path.read_bytes()).hexdigest()
+    content = path.read_bytes().replace(b"\r\n", b"\n").replace(b"\r", b"\n")
+    digest = hashlib.sha256(content).hexdigest()
     return digest
 
 
