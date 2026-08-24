@@ -1,0 +1,74 @@
+country_name,country_iso3,year,total_ddd_per_1000_day,access_ddd,watch_ddd,reserve_ddd,unclassified_ddd,access_share_pct,coverage_caveat,interpretive_quadrant,volume_band,access_target,paradox_quadrant,has_coverage_caveat
+Armenia,ARM,2023,14.141744,8.695858,5.1030717,0.020175207,0.06008628,62.65392473406527,,Volume < mediana · Access < 70%,low,below_70,low_volume__lower_access,False
+Austria,AUT,2023,11.8882265,7.395719,4.142328,0.09215241,0.11183858,62.98496910245476,somente consumo comunitário reportado,Volume < mediana · Access < 70%,low,below_70,low_volume__lower_access,True
+Belgium,BEL,2023,21.125095,14.450346,5.8774977,0.024451284,0.57682705,69.04420537337865,,Volume ≥ mediana · Access < 70%,high,below_70,high_volume__higher_access,False
+Benin,BEN,2023,22.717428,15.326317,6.9759803,0.0,0.17404284,68.18866819302372,,Volume ≥ mediana · Access < 70%,high,below_70,high_volume__higher_access,False
+Burkina Faso,BFA,2023,20.238438,15.611165,4.5177107,0.0,0.10956147,77.13621792467683,escopo de classes antimicrobianas parcial,Volume ≥ mediana · Access ≥ 70%,high,meets_70,high_volume__higher_access,True
+Bangladesh,BGD,2023,32.724857,10.560764,18.086754,0.0692156,3.4292061,32.85255960335171,,Volume ≥ mediana · Access < 70%,high,below_70,high_volume__lower_access,False
+Belarus,BLR,2023,20.836798,13.734569,6.4594555,0.07015547,0.1573357,67.2553850651576,,Volume ≥ mediana · Access < 70%,high,below_70,high_volume__higher_access,False
+Brunei,BRN,2023,9.300538,6.491376,2.7610164,0.01939633,0.028749427,69.7957031133118,,Volume < mediana · Access < 70%,low,below_70,low_volume__higher_access,False
+Bhutan,BTN,2023,12.154963,10.751103,1.4022789,0.00158032,0.0,88.45032016890958,escopo de classes antimicrobianas parcial,Volume < mediana · Access ≥ 70%,low,meets_70,low_volume__higher_access,True
+Canada,CAN,2023,14.526112,10.53933,3.357915,0.03265691,0.4749224,73.16527972287362,,Volume < mediana · Access ≥ 70%,low,meets_70,low_volume__higher_access,False
+Switzerland,CHE,2023,11.360331,7.565234,3.3888886,0.036801443,0.17567451,67.74877742844563,escopo de classes antimicrobianas parcial,Volume < mediana · Access < 70%,low,below_70,low_volume__higher_access,True
+Cote d'Ivoire,CIV,2023,10.147002,7.5983872,2.4437344,0.0,0.104880884,74.88307223715863,escopo de classes antimicrobianas parcial,Volume < mediana · Access ≥ 70%,low,meets_70,low_volume__higher_access,True
+Colombia,COL,2023,22.732248,16.308874,6.250679,0.068259835,0.053257804,71.90522114047369,,Volume ≥ mediana · Access ≥ 70%,high,meets_70,high_volume__higher_access,False
+Cyprus,CYP,2022,34.136124,18.918678,15.049097,0.10873415,0.054958843,55.428843564185456,,Volume ≥ mediana · Access < 70%,high,below_70,high_volume__lower_access,False
+Czechia,CZE,2023,19.05375,11.629465,7.207909,0.048534647,0.028242659,61.485523785097705,,Volume ≥ mediana · Access < 70%,high,below_70,high_volume__lower_access,False
+Germany,DEU,2023,13.696483,8.220583,4.9639,0.05779281,0.2420366,60.964050298208704,somente consumo comunitário reportado,Volume < mediana · Access < 70%,low,below_70,low_volume__lower_access,True
+Denmark,DNK,2023,16.258766,13.383833,2.7172148,0.03649815,9.896e-05,82.93547834669762,,Volume < mediana · Access ≥ 70%,low,meets_70,low_volume__higher_access,False
+Egypt,EGY,2023,29.396042,17.29887,11.540444,0.34142435,0.1418365,58.99505786409477,,Volume ≥ mediana · Access < 70%,high,below_70,high_volume__lower_access,False
+Spain,ESP,2023,25.54098,15.749844,8.77622,0.21091461,0.6533537,62.03086989057215,,Volume ≥ mediana · Access < 70%,high,below_70,high_volume__lower_access,False
+Estonia,EST,2023,12.99971,8.280699,4.5388966,0.023755237,0.007454994,64.43719645988635,,Volume < mediana · Access < 70%,low,below_70,low_volume__higher_access,False
+Ethiopia,ETH,2023,10.923886,6.29901,4.623781,1.06e-06,0.0010945781,57.66271848730564,escopo de classes antimicrobianas parcial,Volume < mediana · Access < 70%,low,below_70,low_volume__lower_access,True
+Finland,FIN,2023,12.567326,9.833991,2.5739245,0.01955624,4.65e-05,79.13077100420332,,Volume < mediana · Access ≥ 70%,low,meets_70,low_volume__higher_access,False
+France,FRA,2023,24.5361,17.766901,5.8061075,0.11034215,0.59471947,73.18086203797488,escopo de classes antimicrobianas parcial,Volume ≥ mediana · Access ≥ 70%,high,meets_70,high_volume__higher_access,True
+Gabon,GAB,2023,12.2314625,7.732518,3.3040614,0.020546934,0.20008719,68.68944951176888,escopo de classes antimicrobianas parcial,Volume < mediana · Access < 70%,low,below_70,low_volume__higher_access,True
+United Kingdom,GBR,2023,17.079811,12.35837,4.636031,0.06745708,0.01795265,72.35659806401145,somente setor público reportado,Volume < mediana · Access ≥ 70%,low,meets_70,low_volume__higher_access,True
+Georgia,GEO,2023,24.436386,11.734973,11.7927685,0.037946973,0.70383936,48.3527041842306,escopo de classes antimicrobianas parcial,Volume ≥ mediana · Access < 70%,high,below_70,high_volume__lower_access,True
+Hong Kong,HKG,2023,17.32407,10.565274,6.216318,0.027457096,0.5150204,60.986097997583336,,Volume < mediana · Access < 70%,low,below_70,low_volume__lower_access,False
+Honduras,HND,2023,5.6569266,3.9798777,1.6752368,0.0018121819,0.0,70.35406191022565,somente setor público reportado,Volume < mediana · Access ≥ 70%,low,meets_70,low_volume__higher_access,True
+Croatia,HRV,2023,21.615002,13.097117,8.1940365,0.063918896,0.1210552,60.98453709336027,,Volume ≥ mediana · Access < 70%,high,below_70,high_volume__lower_access,False
+Hungary,HUN,2023,14.807724,7.4123797,7.073082,0.01585197,0.16546492,50.53856683330488,,Volume < mediana · Access < 70%,low,below_70,low_volume__lower_access,False
+Indonesia,IDN,2023,26.162806,18.618164,7.5331383,0.00031970098,0.011184881,71.1627161565127,,Volume ≥ mediana · Access ≥ 70%,high,meets_70,high_volume__higher_access,False
+Ireland,IRL,2023,22.879614,17.166046,5.330396,0.106193796,0.16309649,75.40300388473082,,Volume ≥ mediana · Access ≥ 70%,high,meets_70,high_volume__higher_access,False
+Iran,IRN,2023,65.756256,28.650396,36.7696,0.055509247,0.004909867,43.75414534272618,,Volume ≥ mediana · Access < 70%,high,below_70,high_volume__lower_access,False
+Iceland,ISL,2023,18.314444,15.591326,2.4362068,0.033859212,0.000855373,86.31996709860145,somente consumo comunitário reportado,Volume < mediana · Access ≥ 70%,low,meets_70,low_volume__higher_access,True
+Italy,ITA,2023,25.36181,12.815358,11.575131,0.136921,0.6240933,50.95265220190635,,Volume ≥ mediana · Access < 70%,high,below_70,high_volume__lower_access,False
+Jordan,JOR,2023,36.32724,18.65303,16.807512,0.013632895,0.82137465,51.39205834829301,,Volume ≥ mediana · Access < 70%,high,below_70,high_volume__lower_access,False
+Kenya,KEN,2021,18.80344,10.6339035,7.335829,0.006214324,0.8274946,56.5529642165784,fontes nacionais incompletas,Volume ≥ mediana · Access < 70%,high,below_70,high_volume__lower_access,True
+South Korea,KOR,2023,33.05834,12.817202,19.866327,0.022626135,0.35218117,38.7714671474905,,Volume ≥ mediana · Access < 70%,high,below_70,high_volume__lower_access,False
+Kuwait,KWT,2023,32.78365,15.186844,17.26185,0.035743836,0.024268743,46.7162357354765,somente setor público reportado,Volume ≥ mediana · Access < 70%,high,below_70,high_volume__lower_access,True
+Laos,LAO,2023,18.43857,15.326415,3.112154,0.0,0.0,83.12149928771588,escopo de classes antimicrobianas parcial,Volume < mediana · Access ≥ 70%,low,meets_70,low_volume__higher_access,True
+Lithuania,LTU,2023,19.376549,12.669623,6.200466,0.033253673,0.013228754,66.97631782214188,,Volume ≥ mediana · Access < 70%,high,below_70,high_volume__higher_access,False
+Latvia,LVA,2023,15.249408,10.833309,4.1592903,0.03339642,0.022145713,71.99100997444752,,Volume < mediana · Access ≥ 70%,low,meets_70,low_volume__higher_access,False
+Maldives,MDV,2023,29.78978,11.487341,18.150229,0.004919294,0.14728944,38.56135053090925,,Volume ≥ mediana · Access < 70%,high,below_70,high_volume__lower_access,False
+Mali,MLI,2022,8.41913,3.831295,4.3840694,0.0,0.20376664,45.50701232463536,escopo de classes antimicrobianas parcial,Volume < mediana · Access < 70%,low,below_70,low_volume__lower_access,True
+Malta,MLT,2023,24.975723,13.936519,10.581994,0.071780205,0.25623405,56.09040996743511,,Volume ≥ mediana · Access < 70%,high,below_70,high_volume__lower_access,False
+Montenegro,MNE,2023,31.84672,17.087551,14.444185,0.012146614,0.13250723,53.94412394895009,,Volume ≥ mediana · Access < 70%,high,below_70,high_volume__lower_access,False
+Malaysia,MYS,2023,24.490599,11.408103,13.031174,0.0082983775,0.043023285,46.58156036613382,escopo de classes antimicrobianas parcial,Volume ≥ mediana · Access < 70%,high,below_70,high_volume__lower_access,True
+Norway,NOR,2023,12.059391,9.67786,2.223972,0.02494787,0.001616252,81.1329528380664,,Volume < mediana · Access ≥ 70%,low,meets_70,low_volume__higher_access,False
+Nepal,NPL,2023,34.34172,8.730701,21.005857,0.0565412,3.4829164,26.237218737209627,nem todos os antibacterianos são reportados sistematicamente,Volume ≥ mediana · Access < 70%,high,below_70,high_volume__lower_access,True
+Oman,OMN,2023,8.681876,5.427619,3.1122875,0.015776103,0.001173369,63.43006143565366,somente setor público reportado,Volume < mediana · Access < 70%,low,below_70,low_volume__higher_access,True
+Peru,PER,2022,10.115588,6.4044404,3.6905546,0.020100322,0.000492491,63.31258764586438,,Volume < mediana · Access < 70%,low,below_70,low_volume__higher_access,False
+Papua New Guinea,PNG,2023,13.117169,10.383667,2.7335024,0.0,0.0,79.16088207262155,somente setor público reportado,Volume < mediana · Access ≥ 70%,low,meets_70,low_volume__higher_access,True
+Poland,POL,2023,24.065334,14.504715,9.322536,0.028956475,0.11114604,60.51863419514467,,Volume ≥ mediana · Access < 70%,high,below_70,high_volume__lower_access,False
+Portugal,PRT,2023,19.87725,12.463973,6.7281957,0.06701176,0.48998106,63.11140342529337,dados de antituberculosos incompletos,Volume ≥ mediana · Access < 70%,high,below_70,high_volume__lower_access,True
+Palestine,PSE,2023,29.11556,13.793627,15.209061,0.0,0.112872094,47.37544788926292,escopo de classes antimicrobianas parcial,Volume ≥ mediana · Access < 70%,high,below_70,high_volume__lower_access,True
+Qatar,QAT,2023,11.902598,6.7574906,3.3342166,0.58952314,0.7632421,59.04588993007353,fontes nacionais incompletas,Volume < mediana · Access < 70%,low,below_70,low_volume__lower_access,True
+Romania,ROU,2023,29.610432,14.7901535,13.819945,0.061521254,0.05097976,51.493088196251065,,Volume ≥ mediana · Access < 70%,high,below_70,high_volume__lower_access,False
+Russia,RUS,2023,17.453678,7.3521523,8.154845,0.17341383,0.49426395,45.45471401209748,,Volume < mediana · Access < 70%,low,below_70,low_volume__lower_access,False
+Rwanda,RWA,2022,8.681356,7.338051,1.324604,1.99e-06,0.0,84.70901027791936,somente setor público reportado,Volume < mediana · Access ≥ 70%,low,meets_70,low_volume__higher_access,True
+Saudi Arabia,SAU,2023,9.284593,5.7238436,3.3919163,0.05375941,0.005151643,62.38745377705756,somente setor público reportado,Volume < mediana · Access < 70%,low,below_70,low_volume__lower_access,True
+Sudan,SDN,2021,15.162234,5.4043508,9.757884,0.0,0.0,35.643497619493395,,Volume < mediana · Access < 70%,low,below_70,low_volume__lower_access,False
+Senegal,SEN,2023,12.836576,9.602545,3.1089108,0.0,0.1251202,74.80612431227766,,Volume < mediana · Access ≥ 70%,low,meets_70,low_volume__higher_access,False
+Singapore,SGP,2023,9.535659,6.041889,3.386074,0.033291183,0.034860093,63.62485564511334,,Volume < mediana · Access < 70%,low,below_70,low_volume__higher_access,False
+Slovenia,SVN,2023,13.757066,10.018336,3.4814837,0.034239713,0.08132817,73.58098283231222,,Volume < mediana · Access ≥ 70%,low,meets_70,low_volume__higher_access,False
+Sweden,SWE,2021,9.67051,6.9949837,2.4602532,0.027060218,0.00020485799,73.76727911801679,,Volume < mediana · Access ≥ 70%,low,meets_70,low_volume__higher_access,False
+Tajikistan,TJK,2023,18.814314,10.039482,8.268837,0.008007723,0.35065335,53.78203630549299,,Volume ≥ mediana · Access < 70%,high,below_70,high_volume__lower_access,False
+East Timor,TLS,2019,7.783921,6.8170166,0.9669042,0.0,0.0,87.57818553343965,somente setor público reportado,Volume < mediana · Access ≥ 70%,low,meets_70,low_volume__higher_access,True
+Tunisia,TUN,2023,33.54817,24.333237,7.047819,0.008068808,2.1590455,72.53223283595118,escopo de classes antimicrobianas parcial,Volume ≥ mediana · Access ≥ 70%,high,meets_70,high_volume__higher_access,True
+Tanzania,TZA,2023,29.252254,20.012865,7.326545,0.008116056,1.3554388,69.72403408638309,,Volume ≥ mediana · Access < 70%,high,below_70,high_volume__higher_access,False
+Uganda,UGA,2023,27.420889,14.909237,9.693218,0.013484294,1.7462882,56.55530058449468,,Volume ≥ mediana · Access < 70%,high,below_70,high_volume__lower_access,False
+Ukraine,UKR,2023,10.645125,4.5894833,5.39758,0.037042953,0.42670858,43.91507622456409,,Volume < mediana · Access < 70%,low,below_70,low_volume__lower_access,False
+South Africa,ZAF,2023,29.523716,15.1302805,3.707439,0.030695809,2.58e-05,80.18829119265743,somente setor público reportado,Volume ≥ mediana · Access ≥ 70%,high,meets_70,high_volume__higher_access,True
+Zambia,ZMB,2023,24.699373,18.927828,4.9355536,0.0072260974,0.19705483,78.64423052488576,,Volume ≥ mediana · Access ≥ 70%,high,meets_70,high_volume__higher_access,False

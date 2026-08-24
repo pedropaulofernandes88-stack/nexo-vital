@@ -1,0 +1,76 @@
+{
+  "generated_at": "2026-08-24T04:13:07.108260+00:00",
+  "purpose": "Versioned snapshots of public sources for offline reproducibility",
+  "files": [
+    {
+      "path": "data/snapshots/global_indicators_2000_2022.csv",
+      "bytes": 4250915,
+      "sha256": "7a665ebf05081db91315c51c7a488774e01632a275e26f4e2bd74b43e432b2ca"
+    },
+    {
+      "path": "data/snapshots/who_glass_antibiotics_2016_2023.csv",
+      "bytes": 44986,
+      "sha256": "f3655dc8dc158bb3f93982b1ecf559f9cff7f29163fe7b46c08efbb72300f3c5"
+    },
+    {
+      "path": "data/snapshots/oecd_pharmaceutical_consumption_2010_2023.csv",
+      "bytes": 119814,
+      "sha256": "89a0f1c4e507e4220774c83032e06908832436f5a688b8b3c60f45d880cbb410"
+    },
+    {
+      "path": "data/snapshots/brazil_health_tourism_2014_2019.csv",
+      "bytes": 753,
+      "sha256": "97c4a8d0c1fa974da7a855e6008ecb2004dda0326324eaaab279128ca27eee02"
+    },
+    {
+      "path": "data/snapshots/brazil_sus_foreign_nationality_2021.csv",
+      "bytes": 413,
+      "sha256": "c1def593216623f63e1448937b9bd2c8d5b8086860d3c859e36cf643f3809973"
+    },
+    {
+      "path": "dashboard/data/world.geo.json",
+      "bytes": 256950,
+      "sha256": "bc2356a26a2976f98e4aaf1b24c5693d5a4dc9b6178aeb952dbafbcd42c73bcd"
+    },
+    {
+      "path": "dashboard/vendor/chart.umd.min.js",
+      "bytes": 200632,
+      "sha256": "e9b0f875106021fb3d58120ad8ebdd3e7d32135a4452fd8918c72ac6475f2bd3"
+    },
+    {
+      "path": "dashboard/vendor/d3.v7.min.js",
+      "bytes": 279706,
+      "sha256": "f2094bbf6141b359722c4fe454eb6c4b0f0e42cc10cc7af921fc158fceb86539"
+    },
+    {
+      "path": "dashboard/vendor/fonts.css",
+      "bytes": 506,
+      "sha256": "5aa3c2c4db7c25ce430c440151cc664bdf09fc3c909d7f8a73df514de4b91c15"
+    },
+    {
+      "path": "dashboard/vendor/THIRD_PARTY_NOTICES.md",
+      "bytes": 872,
+      "sha256": "0d0c6ffde88de692e14d44d26480a326c2699663a74835abea087d594473a857"
+    },
+    {
+      "path": "dashboard/vendor/fonts/fraunces-latin.woff2",
+      "bytes": 67304,
+      "sha256": "7234ed860a9cc83045413c4faee63c960a8f2d1917adcf728119307d56e0d783"
+    },
+    {
+      "path": "dashboard/vendor/fonts/ibm-plex-mono-latin.woff2",
+      "bytes": 14888,
+      "sha256": "01d285447409c8a588692162439a038b8cbd7871309ee20267b0d2d91c6e8e22"
+    },
+    {
+      "path": "dashboard/vendor/fonts/inter-latin.woff2",
+      "bytes": 48256,
+      "sha256": "3100e775e8616cd2611beecfa23a4263d7037586789b43f035236a2e6fbd4c62"
+    },
+    {
+      "path": "data/snapshots/who_glass_antibiotics_metadata.json",
+      "bytes": 3054,
+      "sha256": "f9e9fa21058449d979b954af86e3be9964c4def7def2a1b09b74566912553e7b"
+    }
+  ]
+}

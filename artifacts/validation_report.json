@@ -1,0 +1,12 @@
+{
+  "status": "approved",
+  "checks": [
+    "contrato global: 33.043 linhas, 9 indicadores, sem chave duplicada",
+    "artefato analítico: JSON finito, 159 países, banda e Ridge presentes",
+    "cardinalidade acadêmica: países=159, CV=200, bootstrap=500",
+    "dashboard: IDs únicos e assets locais resolvidos",
+    "independência: sem marcas ou atribuições de projetos anteriores",
+    "JavaScript: node --check aprovado",
+    "proveniência: hashes dos três snapshots analíticos conferidos"
+  ]
+}

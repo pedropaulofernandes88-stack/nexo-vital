@@ -1,0 +1,18 @@
+cff-version: 1.2.0
+message: "Se utilizar o código ou os artefatos do Nexo Vital, cite este software e as fontes primárias dos dados."
+title: "Nexo Vital: Atlas Global de Saúde, Desenvolvimento e Medicamentos"
+type: software
+version: 0.1.0
+date-released: 2026-08-24
+license: MIT
+authors:
+  - name: "Nexo Vital contributors"
+abstract: >-
+  Observatório reprodutível para associações ecológicas, validação fora da amostra,
+  segmentação de países, consumo farmacêutico e mobilidade internacional em saúde.
+keywords:
+  - global health
+  - health equity
+  - antimicrobial use
+  - reproducible research
+  - conformal prediction

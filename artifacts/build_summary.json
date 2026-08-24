@@ -1,0 +1,48 @@
+{
+  "reference_year": 2015,
+  "countries": 159,
+  "model_metrics": {
+    "n_countries": 159,
+    "n_features": 4,
+    "r_squared_association": 0.7345620858265016,
+    "adjusted_r_squared_association": 0.7276675945492679,
+    "loo_predictive_r_squared": 0.7159528927808063,
+    "loo_rmse_years": 4.02105072722721,
+    "loo_mae_years": 2.942193510761514,
+    "conformal_nominal_coverage": 0.8,
+    "conformal_empirical_coverage": 0.8113207547169812,
+    "conformal_radius_years": 4.468397725051055,
+    "countries_below": 16,
+    "countries_within": 129,
+    "countries_above": 14,
+    "max_vif": 10.434761584535748,
+    "influential_cook_threshold": 9
+  },
+  "concentration": {
+    "region": "Sub-Saharan Africa",
+    "universe_countries": 159,
+    "region_countries": 39,
+    "below_countries": 16,
+    "observed_in_region": 12,
+    "expected_in_region": 3.9245283018867925,
+    "enrichment_ratio": 3.0576923076923075,
+    "hypergeometric_one_sided_p_value": 9.446580568345361e-06
+  },
+  "cv_summary": {
+    "rmse_years": {
+      "mean": 3.8926894535043504,
+      "p05": 2.527373080590622,
+      "p95": 5.84918051901838
+    },
+    "mae_years": {
+      "mean": 2.9468911610861053,
+      "p05": 2.0454466731290952,
+      "p95": 3.945730551748785
+    },
+    "bias_years": {
+      "mean": -0.007528714461878767,
+      "p05": -2.020470467227302,
+      "p95": 1.6816964095481808
+    }
+  }
+}

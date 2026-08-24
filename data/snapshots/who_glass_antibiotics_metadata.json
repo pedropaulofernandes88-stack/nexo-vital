@@ -1,0 +1,36 @@
+{
+  "chart": {
+    "title": "Antibiotic consumption rate",
+    "subtitle": "Reported volume of antibiotics used per 1,000 people per day, measured in defined daily doses. Countries may report data from different sources, including insurance claims, import records, hospital prescriptions, and wholesale data.",
+    "note": "Only shown for countries reporting to the WHO's GLASS system to track antimicrobial usage and resistance.",
+    "citation": "WHO Global Antimicrobial Resistance and Use Surveillance System (GLASS) (2025)",
+    "originalChartUrl": "https://ourworldindata.org/grapher/antibiotic-consumption-rate?v=1&csvType=full&useColumnShortNames=false",
+    "selection": [
+      "United Kingdom",
+      "Sweden",
+      "Poland",
+      "Bangladesh",
+      "Iran"
+    ]
+  },
+  "columns": {
+    "Defined daily doses of antibiotics and antituberculosis drugs used per 1,000 inhabitants per day": {
+      "titleShort": "Defined daily doses of antibiotics and antituberculosis drugs used per 1,000 inhabitants per day",
+      "titleLong": "Defined daily doses of antibiotics and antituberculosis drugs used per 1,000 inhabitants per day",
+      "descriptionShort": "Total defined daily doses of antibiotics and antituberculosis drugs used in a given year per 1,000 inhabitants per day.",
+      "descriptionKey": "- For Austria, Germany and Iceland: Only use in the community reported\n- For Portugal: data are incomplete for antituberculosis medicines.\n- For Nepal: Data incomplete: not all antibacterials reported systematically\n- For Honduras, Kuwait, Oman, Papua New Guinea, Rwanda, Saudi Arabia, South Africa, East Timor and United Kingdom: Only use in the public sector reported\n- For Bhutan, Burkina Faso, Cote d'Ivoire, Ethiopia, France, Gabon, Georgia, Laos, Malaysia, Mali, Switzerland, Tunisia and Palestine: for antibiotics, only antibiotics for systemic use (ATC code J01) and nitroimidazole derivatives (ATC code P01AB) are reported.\n- For Kenya and Qatar: data is incomplete since it's not collected from all sources.",
+      "unit": "defined daily doses per 1,000 inhabitants per day",
+      "timespan": "2016-2023",
+      "type": "Numeric",
+      "owidVariableId": 1291239,
+      "shortName": "did_antibacterials_and_antituberculosis",
+      "lastUpdated": "2026-06-30",
+      "nextUpdate": "2027-06-30",
+      "citationShort": "WHO Global Antimicrobial Resistance and Use Surveillance System (GLASS) (2025) – processed by Our World in Data",
+      "citationLong": "WHO Global Antimicrobial Resistance and Use Surveillance System (GLASS) (2025) – processed by Our World in Data. “Defined daily doses of antibiotics and antituberculosis drugs used per 1,000 inhabitants per day” [dataset]. WHO Global Antimicrobial Resistance and Use Surveillance System (GLASS), “WHO GLASS - Global Antimicrobial Use data” [original data].",
+      "fullMetadata": "https://api.ourworldindata.org/v1/indicators/1291239.metadata.json"
+    }
+  },
+  "dateDownloaded": "2026-08-24",
+  "activeFilters": {}
+}
