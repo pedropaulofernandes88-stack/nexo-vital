@@ -2,6 +2,11 @@
 
 **Atlas Global de Saúde, Desenvolvimento e Medicamentos**
 
+**[Acessar o dashboard publicado](https://pedropaulofernandes88-stack.github.io/nexo-vital/)**
+
+[![quality-gates](https://github.com/pedropaulofernandes88-stack/nexo-vital/actions/workflows/ci.yml/badge.svg)](https://github.com/pedropaulofernandes88-stack/nexo-vital/actions/workflows/ci.yml)
+[![deploy-dashboard](https://github.com/pedropaulofernandes88-stack/nexo-vital/actions/workflows/pages.yml/badge.svg)](https://github.com/pedropaulofernandes88-stack/nexo-vital/actions/workflows/pages.yml)
+
 Nexo Vital é um observatório analítico independente para investigar como condições
 econômicas, capacidade sanitária, riscos populacionais e uso de medicamentos se
 associam a resultados de saúde entre países. O projeto separa três perguntas que não
